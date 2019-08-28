@@ -7,5 +7,5 @@ while True:
 	products.append([name, price])
 print(products)
 
-
-products[0][0] # products 清单中第0个清单中的第0个
+for p in products:
+	print('The price of', p[0], 'is', p[1])
