@@ -1,4 +1,3 @@
-# 检查文件在不在
 import os # operating system
 
 # 读取档案
